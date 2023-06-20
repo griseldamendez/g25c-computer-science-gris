@@ -1,0 +1,31 @@
+
+
+{
+"products": [
+    {
+        "id": 1,
+        "name": "zapato",
+        "color": "cafe",
+        "model": "324578"
+        
+    },
+    {
+        "id": 2,
+        "name": "tenis",
+        "color": "negro",
+        "model": "745389"
+        
+    },
+    {
+        "id": 3,
+        "name": "zapatilla",
+        "color": "rojo",
+        "model": "669354"
+        
+    }
+    ]
+}
+
+   
+
+
